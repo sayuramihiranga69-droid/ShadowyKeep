@@ -26,7 +26,7 @@ Your feedback is invaluable. If you have any comments or suggestions, please ope
 ## 📜 License
 ShadowyKeep is released under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## 🎮 Mila Note
-[Brain Storm]([https://pedro2712.itch.io/shadowykeep](https://app.milanote.com/1QK8ci111nnLeM/shadowy-keep?p=5pn71mwOQAF)).
+## Mila Note
+[Brain Storm](https://app.milanote.com/1QK8ci111nnLeM/shadowy-keep?p=5pn71mwOQAF).
 
 Thank you for visiting and we hope you enjoy playing ShadowyKeep!
